@@ -10,6 +10,7 @@
 
 ## 📚Cybersecurity Projects:
 
+- [Automated Hacking Machine](https://github.com/jli149/Automated-Hacking-Machine)
 - [Investigating with Splunk](https://github.com/jli149/Investigating-with-Splunk.git)
 - [Incident handling with Splunk](https://github.com/jli149/Incident-handling-with-Splunk.git)
 - [Automate the Process of Parsing Files Using Python](https://github.com/jli149/Automate-the-process-of-parsing-files-using-Python.git)
