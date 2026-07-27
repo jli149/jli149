@@ -1,13 +1,13 @@
-## Hi there👋 I'm Jiayi! A Cybersecurity Practitioner
+## Hi there👋 I'm Jiayi! A Cybersecurity Practitioner with a background in financial services. Focused on SIEM, Incident Response, Security Automation, and Threat Detection.
 
 # 🛣️My Cybersecurity Journey
 
 ## 🌠Cybersecurity Certifications:
 - [CompTIA CySA+](https://www.credly.com/badges/5d325ef4-e918-49ae-b35f-ec95e37b4380/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/658f7ede-a4a0-47bc-83b1-01ae0f63f3c9/public_url)
-- [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/Joslyn-0806/8766DF21159EE441?sharingId=4ABFF15C134EB761)
+- [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/Joslyn-0806/8766DF21159EE441?sharingId=4ABFF15C134EB761)(Expired)
 - [Coursera Google Cybersecurity Certificate](https://coursera.org/share/008c144d26e0f8897b2e64c8728bbae8)
-- [ISC2 Certified in Cybersecurity(CC)]
+- [ISC2 Certified in Cybersecurity(CC)] 
 
 ## 🏆Hands-on Cybersecurity Experience
 
@@ -43,17 +43,23 @@
   
 ## 🖥️Technical Skills:
 
-- Languages
-• Python
-• SQL
+### Programming & Query Languages
+- Python
+- SQL
 
-- Operating Systems
-• Linux
-• Windows
+### Operating Systems
+- Linux
+- Windows
 
-- Security Tools
-• Splunk(SIEM)
-• Wireshark
-• Snort
-• Nmap
+### Security Tools
+- Splunk (SIEM)
+- Wireshark
+- Snort
+- Nmap
 
+### Cybersecurity Domains
+- SIEM
+- Incident Response
+- Threat Detection
+- Vulnerability Assessment
+- Security Automation
