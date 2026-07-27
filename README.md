@@ -1,4 +1,4 @@
-## Hi there👋 I'm Jiayi! 
+## Hello, I'm Jiayi 👋
 A Cybersecurity Practitioner with a background in financial services. Focused on SIEM, Incident Response, Security Automation, and Threat Detection.
 
 # 🛣️My Cybersecurity Journey
