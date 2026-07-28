@@ -7,7 +7,7 @@ A Cybersecurity Practitioner with a background in financial services. Focused on
 - [CompTIA CySA+](https://www.credly.com/badges/5e968ec6-818f-4e49-a51a-c0a469ba4ac4)
 - [CompTIA Security+](https://www.credly.com/badges/658f7ede-a4a0-47bc-83b1-01ae0f63f3c9/public_url)
 - [ISC2 Certified in Cybersecurity(CC)](https://www.credly.com/badges/bd7a34db-e4df-4789-904f-4126886c667e)
-- [Coursera Google Cybersecurity Certificate](https://coursera.org/share/008c144d26e0f8897b2e64c8728bbae8)
+- [Google Cybersecurity Certificate (Coursera)](https://coursera.org/share/008c144d26e0f8897b2e64c8728bbae8)
 - [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/Joslyn-0806/8766DF21159EE441?sharingId=4ABFF15C134EB761)(Expired)
 
 ## 🏆Hands-on Cybersecurity Experience
